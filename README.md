@@ -1,9 +1,11 @@
 # SelectionSort
 
-Implementazione dell'algoritmo Selection Sort usando Java Generics.
+Implementazione dell'algoritmo Selection Sort.
 
-Java Generics.
-Maven.
+Strumenti usati:
+Java 1.8,
+Java Generics,
+Maven,
 Eclipse.
 
 
